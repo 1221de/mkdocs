@@ -1,7 +1,7 @@
 site_name: My Docs
 
 pages:
-- [index.md, Home]
-- [about.md, About]
+- [index.md, Ho99me]
+
 
 theme: readthedocs
