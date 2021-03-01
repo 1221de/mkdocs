@@ -1,6 +1,6 @@
-# 目录
+# 文档目录
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+ [mkdocs.org](doc3.md).
 
 ## Commands
 
