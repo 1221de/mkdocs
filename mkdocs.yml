@@ -8,6 +8,7 @@ nav:
         - 二: client/docs2.md
         - 6656: 33/test.md
     - 三: doc3.md
+    - 测试: 测试目录
 
 
 theme: readthedocs
