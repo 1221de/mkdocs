@@ -3,10 +3,11 @@ nav:
     - Home: index.md
     - 用户指南:
         - 编写文档: user-guide/writing-your-docs.md
-        - 设置文档样式: user-guide/styling-your-docs.md    - About: client/docs1.md
+        - 设置文档样式: user-guide/styling-your-docs.md    
+        - About: client/docs1.md
         - 二: client/docs2.md
-        - 三: doc3.md
         - 6656: 33/test.md
+    - 三: doc3.md
 
 
 theme: readthedocs
