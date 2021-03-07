@@ -1,9 +1,9 @@
 site_name: 说明文档
 nav:
     - Home: index.md
-    - About: docs1.md
+    - About: client/docs1.md
     - 二: client/docs2.md
-    - 三: client/doc3.md
+    - 三: doc3.md
 
 
 theme: readthedocs
