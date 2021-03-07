@@ -1,4 +1,5 @@
 site_name: 说明文档
+docs_dir: home
 nav:
     - Home: index.md
     - 用户指南:
