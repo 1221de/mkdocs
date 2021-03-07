@@ -1,4 +1,9 @@
 site_name: 说明文档
+nav:
+    - Home: index.md
+    - About: docs1.md
+    - 二: docs2.md
+    - 三: doc3.md
 
 
 theme: readthedocs
